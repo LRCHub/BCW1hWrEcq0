@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "CENTURY COLOR",
+  "base_artist": "RAY-GUNS",
+  "createdAt": "2025-12-03T14:02:41.894112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CENTURY COLOR",
+      "artist": "RAY-GUNS",
+      "has_synced": true,
+      "path": "select/01_CENTURY_COLOR_RAY-GUNS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CENTURY COLOR",
+      "artist": "GUNDAM",
+      "has_synced": true,
+      "path": "select/02_CENTURY_COLOR_GUNDAM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CENTURY COLOR",
+      "artist": "RAY-GUNS",
+      "has_synced": false,
+      "path": "select/pl_01_CENTURY_COLOR_RAY-GUNS.txt"
+    }
+  ]
+}
